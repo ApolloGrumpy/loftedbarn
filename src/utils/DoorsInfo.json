@@ -1,0 +1,12 @@
+{
+    "DoubleDoor": {
+        "width": 4,
+        "height": 5,
+        "depth": 0.2
+    },
+    "Window": {
+        "width": 2,
+        "height": 1,
+        "depth": 0.2
+    }
+}

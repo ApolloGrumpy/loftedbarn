@@ -1,0 +1,98 @@
+{
+    "Wood_Exterior": {
+        "normalMap": "/assets/textures/Wood_Exterior/lp-smartside-trim_normal.png",
+        "roughnessMap": "/assets/textures/Wood_Exterior/lp-smartside-trim_normal.png",
+        "clearcoatRoughnessMap": "/assets/textures/Wood_Exterior/lp-smartside-trim_normal.png",
+        "normalMap_Repeat": [
+            3,
+            3
+        ],
+        "roughness": 1,
+        "metalness": 0.164,
+        "color": "0xffffff"
+    },
+    "Wood_Interior": {
+        "map": "/assets/textures/Wood_Interior/osb_d.png",
+        "map_Repeat": [
+            0.6,
+            0.6
+        ],
+        "roughness": 0.7,
+        "metalness": 0.1,
+        "color": "0xD1AA87"
+    },
+    "Wood_InteriorFloor": {
+        "map": "/assets/textures/Wood_InteriorFloor/plywood_d.png",
+        "roughness": 1,
+        "metalness": 0.1,
+        "color": "0xFFD6B5"
+    },
+    "Wood_Door": {
+        "map": "/assets/textures/Wood_Interior/osb_d.png",
+        "map_Repeat": [
+            0.5,
+            0.5
+        ],
+        "roughness": 0.7,
+        "metalness": 0.1,
+        "color": "0xD1AA87"
+    },
+    "Wood_Door_Trim": {
+        "map": "/assets/textures/Wood_Interior/osb_d.png",
+        "map_Repeat": [
+            0.5,
+            0.5
+        ],
+        "roughness": 0.7,
+        "metalness": 0.1,
+        "color": "0xD1AA87"
+    },
+    "Wood_PlankPorch": {
+        "map": "/assets/textures/Wood_PlankPorch/Planktry5.png",
+        "normalMap": "/assets/textures/Wood_PlankPorch/Planks022_2K_NormalGL.jpg",
+        "map_Repeat": [
+            1,
+            1
+        ],
+        "normalMap_Repeat": [
+            1,
+            1
+        ],
+        "roughness": 0.9,
+        "metalness": 0.1,
+        "color": "0xB38764"
+    },
+    "Wood_Trim": {
+        "normalMap": "/assets/textures/Wood_Trim/lp-smartside-trim_normal.png",
+        "roughnessMap": "/assets/textures/Wood_Trim/lp-smartside-trim_normal.png",
+        "clearcoatRoughnessMap": "/assets/textures/Wood_Trim/lp-smartside-trim_normal.png",
+        "normalMap_Repeat": [
+            3,
+            3
+        ],
+        "roughness": 1,
+        "metalness": 0.164,
+        "color": "0xffffff"
+    },
+    "Siding_LPSmartPanelSiding": {
+        "normalMap": "/assets/textures/Siding_LPSmartPanelSiding/OriginalSaltos8.jpg",
+        "roughnessMap": "/assets/textures/Siding_LPSmartPanelSiding/OriginalSaltos8Roughness.jpg",
+        "normalMap_Repeat": [
+            3,
+            3
+        ],
+        "roughness": 1,
+        "metalness": 0.1,
+        "color": "0x812632"
+    },
+    "Roofing_Shingles_DesertTan": {
+        "map": "/assets/textures/Roofing_Shingles/PYS_TruDefDur_DesertTan_d.png",
+        "map_Repeat": [
+            2,
+            2
+        ],
+        "roughness": 1,
+        "metalness": 0.1,
+        "color": "0xA39484"
+    }
+}

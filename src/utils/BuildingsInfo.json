@@ -1,0 +1,1156 @@
+{
+    "LoftedBarn": {
+        "width": 10,
+        "height": 8,
+        "depth": 12,
+        "deltaHeight": 4
+    },
+    "8 x 8 x 6 loftedbarn": {
+        "width": 8,
+        "depth": 8,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "8 x 10 x 6 loftedbarn": {
+        "width": 8,
+        "depth": 10,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "8 x 12 x 6 loftedbarn": {
+        "width": 8,
+        "depth": 12,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "8 x 14 x 6 loftedbarn": {
+        "width": 8,
+        "depth": 14,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "8 x 16 x 6 loftedbarn": {
+        "width": 8,
+        "depth": 16,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "8 x 18 x 6 loftedbarn": {
+        "width": 8,
+        "depth": 18,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "8 x 20 x 6 loftedbarn": {
+        "width": 8,
+        "depth": 20,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "8 x 22 x 6 loftedbarn": {
+        "width": 8,
+        "depth": 22,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "8 x 24 x 6 loftedbarn": {
+        "width": 8,
+        "depth": 24,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "8 x 26 x 6 loftedbarn": {
+        "width": 8,
+        "depth": 26,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "8 x 28 x 6 loftedbarn": {
+        "width": 8,
+        "depth": 28,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "8 x 30 x 6 loftedbarn": {
+        "width": 8,
+        "depth": 30,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "8 x 32 x 6 loftedbarn": {
+        "width": 8,
+        "depth": 32,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "8 x 34 x 6 loftedbarn": {
+        "width": 8,
+        "depth": 34,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "8 x 36 x 6 loftedbarn": {
+        "width": 8,
+        "depth": 36,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "8 x 38 x 6 loftedbarn": {
+        "width": 8,
+        "depth": 38,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "8 x 40 x 6 loftedbarn": {
+        "width": 8,
+        "depth": 40,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "8 x 42 x 6 loftedbarn": {
+        "width": 8,
+        "depth": 42,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "8 x 44 x 6 loftedbarn": {
+        "width": 8,
+        "depth": 44,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "8 x 8 x 8 loftedbarn": {
+        "width": 8,
+        "depth": 8,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "8 x 10 x 8 loftedbarn": {
+        "width": 8,
+        "depth": 10,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "8 x 12 x 8 loftedbarn": {
+        "width": 8,
+        "depth": 12,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "8 x 14 x 8 loftedbarn": {
+        "width": 8,
+        "depth": 14,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "8 x 16 x 8 loftedbarn": {
+        "width": 8,
+        "depth": 16,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "8 x 18 x 8 loftedbarn": {
+        "width": 8,
+        "depth": 18,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "8 x 20 x 8 loftedbarn": {
+        "width": 8,
+        "depth": 20,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "8 x 22 x 8 loftedbarn": {
+        "width": 8,
+        "depth": 22,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "8 x 24 x 8 loftedbarn": {
+        "width": 8,
+        "depth": 24,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "8 x 26 x 8 loftedbarn": {
+        "width": 8,
+        "depth": 26,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "8 x 28 x 8 loftedbarn": {
+        "width": 8,
+        "depth": 28,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "8 x 30 x 8 loftedbarn": {
+        "width": 8,
+        "depth": 30,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "8 x 32 x 8 loftedbarn": {
+        "width": 8,
+        "depth": 32,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "8 x 34 x 8 loftedbarn": {
+        "width": 8,
+        "depth": 34,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "8 x 36 x 8 loftedbarn": {
+        "width": 8,
+        "depth": 36,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "8 x 38 x 8 loftedbarn": {
+        "width": 8,
+        "depth": 38,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "8 x 40 x 8 loftedbarn": {
+        "width": 8,
+        "depth": 40,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "8 x 42 x 8 loftedbarn": {
+        "width": 8,
+        "depth": 42,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "8 x 44 x 8 loftedbarn": {
+        "width": 8,
+        "depth": 44,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+
+
+    "10 x 8 x 6 loftedbarn": {
+        "width": 10,
+        "depth": 8,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "10 x 10 x 6 loftedbarn": {
+        "width": 10,
+        "depth": 10,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "10 x 12 x 6 loftedbarn": {
+        "width": 10,
+        "depth": 12,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "10 x 14 x 6 loftedbarn": {
+        "width": 10,
+        "depth": 14,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "10 x 16 x 6 loftedbarn": {
+        "width": 10,
+        "depth": 16,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "10 x 18 x 6 loftedbarn": {
+        "width": 10,
+        "depth": 18,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "10 x 20 x 6 loftedbarn": {
+        "width": 10,
+        "depth": 20,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "10 x 22 x 6 loftedbarn": {
+        "width": 10,
+        "depth": 22,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "10 x 24 x 6 loftedbarn": {
+        "width": 10,
+        "depth": 24,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "10 x 26 x 6 loftedbarn": {
+        "width": 10,
+        "depth": 26,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "10 x 28 x 6 loftedbarn": {
+        "width": 10,
+        "depth": 28,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "10 x 30 x 6 loftedbarn": {
+        "width": 10,
+        "depth": 30,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "10 x 32 x 6 loftedbarn": {
+        "width": 10,
+        "depth": 32,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "10 x 34 x 6 loftedbarn": {
+        "width": 10,
+        "depth": 34,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "10 x 36 x 6 loftedbarn": {
+        "width": 10,
+        "depth": 36,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "10 x 38 x 6 loftedbarn": {
+        "width": 10,
+        "depth": 38,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "10 x 40 x 6 loftedbarn": {
+        "width": 10,
+        "depth": 40,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "10 x 42 x 6 loftedbarn": {
+        "width": 10,
+        "depth": 42,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "10 x 44 x 6 loftedbarn": {
+        "width": 10,
+        "depth": 44,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "10 x 8 x 8 loftedbarn": {
+        "width": 10,
+        "depth": 8,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "10 x 10 x 8 loftedbarn": {
+        "width": 10,
+        "depth": 10,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "10 x 12 x 8 loftedbarn": {
+        "width": 10,
+        "depth": 12,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "10 x 14 x 8 loftedbarn": {
+        "width": 10,
+        "depth": 14,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "10 x 16 x 8 loftedbarn": {
+        "width": 10,
+        "depth": 16,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "10 x 18 x 8 loftedbarn": {
+        "width": 10,
+        "depth": 18,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "10 x 20 x 8 loftedbarn": {
+        "width": 10,
+        "depth": 20,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "10 x 22 x 8 loftedbarn": {
+        "width": 10,
+        "depth": 22,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "10 x 24 x 8 loftedbarn": {
+        "width": 10,
+        "depth": 24,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "10 x 26 x 8 loftedbarn": {
+        "width": 10,
+        "depth": 26,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "10 x 28 x 8 loftedbarn": {
+        "width": 10,
+        "depth": 28,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "10 x 30 x 8 loftedbarn": {
+        "width": 10,
+        "depth": 30,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "10 x 32 x 8 loftedbarn": {
+        "width": 10,
+        "depth": 32,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "10 x 34 x 8 loftedbarn": {
+        "width": 10,
+        "depth": 34,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "10 x 36 x 8 loftedbarn": {
+        "width": 10,
+        "depth": 36,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "10 x 38 x 8 loftedbarn": {
+        "width": 10,
+        "depth": 38,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "10 x 40 x 8 loftedbarn": {
+        "width": 10,
+        "depth": 40,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "10 x 42 x 8 loftedbarn": {
+        "width": 10,
+        "depth": 42,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "10 x 44 x 8 loftedbarn": {
+        "width": 10,
+        "depth": 44,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+
+
+    "12 x 8 x 6 loftedbarn": {
+        "width": 12,
+        "depth": 8,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "12 x 10 x 6 loftedbarn": {
+        "width": 12,
+        "depth": 10,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "12 x 12 x 6 loftedbarn": {
+        "width": 12,
+        "depth": 12,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "12 x 14 x 6 loftedbarn": {
+        "width": 12,
+        "depth": 14,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "12 x 16 x 6 loftedbarn": {
+        "width": 12,
+        "depth": 16,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "12 x 18 x 6 loftedbarn": {
+        "width": 12,
+        "depth": 18,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "12 x 20 x 6 loftedbarn": {
+        "width": 12,
+        "depth": 20,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "12 x 22 x 6 loftedbarn": {
+        "width": 12,
+        "depth": 22,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "12 x 24 x 6 loftedbarn": {
+        "width": 12,
+        "depth": 24,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "12 x 26 x 6 loftedbarn": {
+        "width": 12,
+        "depth": 26,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "12 x 28 x 6 loftedbarn": {
+        "width": 12,
+        "depth": 28,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "12 x 30 x 6 loftedbarn": {
+        "width": 12,
+        "depth": 30,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "12 x 32 x 6 loftedbarn": {
+        "width": 12,
+        "depth": 32,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "12 x 34 x 6 loftedbarn": {
+        "width": 12,
+        "depth": 34,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "12 x 36 x 6 loftedbarn": {
+        "width": 12,
+        "depth": 36,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "12 x 38 x 6 loftedbarn": {
+        "width": 12,
+        "depth": 38,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "12 x 40 x 6 loftedbarn": {
+        "width": 12,
+        "depth": 40,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "12 x 42 x 6 loftedbarn": {
+        "width": 12,
+        "depth": 42,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "12 x 44 x 6 loftedbarn": {
+        "width": 12,
+        "depth": 44,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "12 x 8 x 8 loftedbarn": {
+        "width": 12,
+        "depth": 8,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "12 x 10 x 8 loftedbarn": {
+        "width": 12,
+        "depth": 10,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "12 x 12 x 8 loftedbarn": {
+        "width": 12,
+        "depth": 12,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "12 x 14 x 8 loftedbarn": {
+        "width": 12,
+        "depth": 14,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "12 x 16 x 8 loftedbarn": {
+        "width": 12,
+        "depth": 16,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "12 x 18 x 8 loftedbarn": {
+        "width": 12,
+        "depth": 18,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "12 x 20 x 8 loftedbarn": {
+        "width": 12,
+        "depth": 20,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "12 x 22 x 8 loftedbarn": {
+        "width": 12,
+        "depth": 22,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "12 x 24 x 8 loftedbarn": {
+        "width": 12,
+        "depth": 24,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "12 x 26 x 8 loftedbarn": {
+        "width": 12,
+        "depth": 26,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "12 x 28 x 8 loftedbarn": {
+        "width": 12,
+        "depth": 28,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "12 x 30 x 8 loftedbarn": {
+        "width": 12,
+        "depth": 30,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "12 x 32 x 8 loftedbarn": {
+        "width": 12,
+        "depth": 32,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "12 x 34 x 8 loftedbarn": {
+        "width": 12,
+        "depth": 34,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "12 x 36 x 8 loftedbarn": {
+        "width": 12,
+        "depth": 36,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "12 x 38 x 8 loftedbarn": {
+        "width": 12,
+        "depth": 38,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "12 x 40 x 8 loftedbarn": {
+        "width": 12,
+        "depth": 40,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "12 x 42 x 8 loftedbarn": {
+        "width": 12,
+        "depth": 42,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "12 x 44 x 8 loftedbarn": {
+        "width": 12,
+        "depth": 44,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+
+
+    "14 x 8 x 6 loftedbarn": {
+        "width": 14,
+        "depth": 8,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "14 x 10 x 6 loftedbarn": {
+        "width": 14,
+        "depth": 10,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "14 x 12 x 6 loftedbarn": {
+        "width": 14,
+        "depth": 12,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "14 x 14 x 6 loftedbarn": {
+        "width": 14,
+        "depth": 14,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "14 x 16 x 6 loftedbarn": {
+        "width": 14,
+        "depth": 16,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "14 x 18 x 6 loftedbarn": {
+        "width": 14,
+        "depth": 18,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "14 x 20 x 6 loftedbarn": {
+        "width": 14,
+        "depth": 20,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "14 x 22 x 6 loftedbarn": {
+        "width": 14,
+        "depth": 22,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "14 x 24 x 6 loftedbarn": {
+        "width": 14,
+        "depth": 24,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "14 x 26 x 6 loftedbarn": {
+        "width": 14,
+        "depth": 26,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "14 x 28 x 6 loftedbarn": {
+        "width": 14,
+        "depth": 28,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "14 x 30 x 6 loftedbarn": {
+        "width": 14,
+        "depth": 30,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "14 x 32 x 6 loftedbarn": {
+        "width": 14,
+        "depth": 32,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "14 x 34 x 6 loftedbarn": {
+        "width": 14,
+        "depth": 34,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "14 x 36 x 6 loftedbarn": {
+        "width": 14,
+        "depth": 36,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "14 x 38 x 6 loftedbarn": {
+        "width": 14,
+        "depth": 38,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "14 x 40 x 6 loftedbarn": {
+        "width": 145,
+        "depth": 40,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "14 x 42 x 6 loftedbarn": {
+        "width": 14,
+        "depth": 42,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "14 x 44 x 6 loftedbarn": {
+        "width": 14,
+        "depth": 44,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "14 x 8 x 8 loftedbarn": {
+        "width": 14,
+        "depth": 8,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "14 x 10 x 8 loftedbarn": {
+        "width": 14,
+        "depth": 10,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "14 x 12 x 8 loftedbarn": {
+        "width": 14,
+        "depth": 12,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "14 x 14 x 8 loftedbarn": {
+        "width": 14,
+        "depth": 14,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "14 x 16 x 8 loftedbarn": {
+        "width": 14,
+        "depth": 16,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "14 x 18 x 8 loftedbarn": {
+        "width": 14,
+        "depth": 18,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "14 x 20 x 8 loftedbarn": {
+        "width": 14,
+        "depth": 20,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "14 x 22 x 8 loftedbarn": {
+        "width": 14,
+        "depth": 22,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "14 x 24 x 8 loftedbarn": {
+        "width": 14,
+        "depth": 24,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "14 x 26 x 8 loftedbarn": {
+        "width": 14,
+        "depth": 26,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "14 x 28 x 8 loftedbarn": {
+        "width": 14,
+        "depth": 28,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "14 x 30 x 8 loftedbarn": {
+        "width": 14,
+        "depth": 30,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "14 x 32 x 8 loftedbarn": {
+        "width": 14,
+        "depth": 32,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "14 x 34 x 8 loftedbarn": {
+        "width": 14,
+        "depth": 34,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "14 x 36 x 8 loftedbarn": {
+        "width": 14,
+        "depth": 36,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "14 x 38 x 8 loftedbarn": {
+        "width": 14,
+        "depth": 38,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "14 x 40 x 8 loftedbarn": {
+        "width": 14,
+        "depth": 40,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "14 x 42 x 8 loftedbarn": {
+        "width": 14,
+        "depth": 42,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "14 x 44 x 8 loftedbarn": {
+        "width": 14,
+        "depth": 44,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+
+
+    "16 x 8 x 6 loftedbarn": {
+        "width": 16,
+        "depth": 8,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "16 x 10 x 6 loftedbarn": {
+        "width": 16,
+        "depth": 10,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "16 x 12 x 6 loftedbarn": {
+        "width": 16,
+        "depth": 12,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "16 x 14 x 6 loftedbarn": {
+        "width": 16,
+        "depth": 14,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "16 x 16 x 6 loftedbarn": {
+        "width": 16,
+        "depth": 16,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "16 x 18 x 6 loftedbarn": {
+        "width": 16,
+        "depth": 18,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "16 x 20 x 6 loftedbarn": {
+        "width": 16,
+        "depth": 20,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "16 x 22 x 6 loftedbarn": {
+        "width": 16,
+        "depth": 22,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "16 x 24 x 6 loftedbarn": {
+        "width": 16,
+        "depth": 24,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "16 x 26 x 6 loftedbarn": {
+        "width": 16,
+        "depth": 26,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "16 x 28 x 6 loftedbarn": {
+        "width": 14,
+        "depth": 28,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "16 x 30 x 6 loftedbarn": {
+        "width": 16,
+        "depth": 30,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "16 x 32 x 6 loftedbarn": {
+        "width": 16,
+        "depth": 32,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "16 x 34 x 6 loftedbarn": {
+        "width": 16,
+        "depth": 34,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "16 x 36 x 6 loftedbarn": {
+        "width": 16,
+        "depth": 36,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "16 x 38 x 6 loftedbarn": {
+        "width": 16,
+        "depth": 38,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "16 x 40 x 6 loftedbarn": {
+        "width": 16,
+        "depth": 40,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "16 x 42 x 6 loftedbarn": {
+        "width": 16,
+        "depth": 42,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "16 x 44 x 6 loftedbarn": {
+        "width": 16,
+        "depth": 44,
+        "height": 6,
+        "deltaHeight": 5.16
+    },
+    "16 x 8 x 8 loftedbarn": {
+        "width": 16,
+        "depth": 8,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "16 x 10 x 8 loftedbarn": {
+        "width": 16,
+        "depth": 10,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "16 x 12 x 8 loftedbarn": {
+        "width": 16,
+        "depth": 12,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "16 x 14 x 8 loftedbarn": {
+        "width": 16,
+        "depth": 14,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "16 x 16 x 8 loftedbarn": {
+        "width": 16,
+        "depth": 16,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "16 x 18 x 8 loftedbarn": {
+        "width": 16,
+        "depth": 18,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "16 x 20 x 8 loftedbarn": {
+        "width": 16,
+        "depth": 20,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "16 x 22 x 8 loftedbarn": {
+        "width": 16,
+        "depth": 22,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "16 x 24 x 8 loftedbarn": {
+        "width": 16,
+        "depth": 24,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "16 x 26 x 8 loftedbarn": {
+        "width": 16,
+        "depth": 26,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "16 x 28 x 8 loftedbarn": {
+        "width": 16,
+        "depth": 28,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "16 x 30 x 8 loftedbarn": {
+        "width": 16,
+        "depth": 30,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "16 x 32 x 8 loftedbarn": {
+        "width": 16,
+        "depth": 32,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "16 x 34 x 8 loftedbarn": {
+        "width": 16,
+        "depth": 34,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "16 x 36 x 8 loftedbarn": {
+        "width": 16,
+        "depth": 36,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "16 x 38 x 8 loftedbarn": {
+        "width": 16,
+        "depth": 38,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "16 x 40 x 8 loftedbarn": {
+        "width": 16,
+        "depth": 40,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "16 x 42 x 8 loftedbarn": {
+        "width": 16,
+        "depth": 42,
+        "height": 8,
+        "deltaHeight": 4.6
+    },
+    "16 x 44 x 8 loftedbarn": {
+        "width": 16,
+        "depth": 44,
+        "height": 8,
+        "deltaHeight": 4.6
+    }
+}

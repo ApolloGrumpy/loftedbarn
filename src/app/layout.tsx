@@ -17,9 +17,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en">
       <body className="flex h-screen flex-col">
-        <div>
+        {/* <div>
           <Header />
-        </div>
+        </div> */}
         <main className="flex-1 overflow-y-hidden">{children}</main>
       </body>
     </html>

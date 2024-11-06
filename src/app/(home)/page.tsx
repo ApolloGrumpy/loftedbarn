@@ -2,8 +2,5 @@
 'use client'
 
 export default function HomePage() {
-  return (<div className="h-screen w-screen select-none ">
-    <h1>venusdev@eclipso.email</h1>
-    <h1>Please send mail to this email address.</h1>
-  </div>)
+  return <div className="h-screen w-screen select-none text-[100px]">venusdev@eclipso.email,,,,,,Please send mail to this email address.</div>
 }
